@@ -1,0 +1,3 @@
+line-length = 100
+[lint]
+ignore = ["N999", "BLE001", "F841", "SIM102", "RUF046", "PIE810", "RUF059"]

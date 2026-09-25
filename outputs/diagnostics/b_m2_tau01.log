@@ -1,0 +1,10 @@
+greedy_repair moves=18 dev=0.0993
+it=0 T=0.0500 obj=1.4732 best=1.4732 acc=0
+it=40000 T=0.0058 obj=1.0004 best=1.4722 acc=24469
+{
+  "model": "M2",
+  "boundary_on": true,
+  "seed": 11,
+  "best_objective": 1.4722259356399245,
+  "runtime_sec": 186.77656149864197
+}

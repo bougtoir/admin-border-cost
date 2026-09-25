@@ -1,0 +1,7 @@
+component,formula,units,normalization,weight,effective_scale,observed_range,analytical_role
+population,"t = max_d |P_d/Pbar - 1|","relative deviation (A: int-scaled x1000; B: float)","Pbar = total/K",1.0,"A: 1000*t; B: 1.0*dev","A: 0.157-0.161; B: ~0.16","primary feasibility + objective"
+compactness,"sum over cut edges of shared_perimeter_m","meters","none (raw length)","0.3 (x10 at A; /1e6 at B)","A: 10*0.3*cut_m; B: 0.3*cut_m/1e6","A: ~2.0-5.4M m; B: ~1-2 km units","compactness surrogate (cut length)"
+flow,"sum over OD pairs F_ij * cut_ij","trips","municipal-share closed form","0.3 (x100 at A; /1e5 at B)","A: 30*flow; B: 0.3*flow/1e5","B severed ~4e4-2e5","functional connectivity retention"
+split,"count of municipalities in >1 district","count","none","0.3","B only (degenerate at A)","0-5","municipal coherence"
+future,"max over years of |P_d,y/Pbar_y - 1|","relative deviation","IPSS S1 growth","0.3 (M4 only)","B: 0.3*fut","0.1-0.45","temporal robustness (M4)"
+change,"population reassigned vs statutory map","persons","none","- (M5 only)","M5 objective","-","minimum intervention (M5)"

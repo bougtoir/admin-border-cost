@@ -1,0 +1,10 @@
+claim,evidence_artifacts,verification
+"Current map contiguous but violates ±20% (max dev ≈0.37, ratio ≈1.97)","outputs/models/{A,B}_M0_on_tau0.2_s0.json","QC check 'contiguous' + max_rel_dev"
+"Border constraint raises objective (Cost_border > 0)","outputs/models/A_M2_* vs A_M3_*; B_M2_* vs B_M3_*; manuscript_values cost_border_*","paired same level/tau/seed"
+"OFF retains more functional flow","severed_flow_total & cross_pref_flow_retained in run JSONs; F4","T3 table"
+"Real border cost unusual vs generic lines","outputs/placebo/placebo_results.csv; placebo_pct in manuscript_values.csv; F6","200 matched borders"
+"Future imbalance worsens under IPSS","future.S1.* in run JSONs; durability; F7","T6 table"
+"MAUP bounded","Level A vs B paired rows in model_results.csv","T3 levels A/B"
+"Numbers traceable to artifacts","manuscript/manuscript_values.csv","QC value-coverage check"
+"Raw data unmodified","data/raw/SHA256SUMS.txt","QC checksum checks"
+"Nonpartisan scope","config/ + src/ contain no vote/party variable","code review"

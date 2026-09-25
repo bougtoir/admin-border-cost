@@ -1,0 +1,825 @@
+it=0 T=0.0500 obj=0.3814 best=0.3814 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 0: cost=0.07082657003163007
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 1: cost=0.0646725193455564
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 2: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 3: cost=0.0732070836066886
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 4: cost=nan
+it=0 T=0.0500 obj=0.3695 best=0.3695 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 5: cost=0.04784040792198019
+it=0 T=0.0500 obj=2.7030 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 6: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=4.7320 best=4.7320 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 7: cost=nan
+it=0 T=0.0500 obj=2.7030 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 8: cost=nan
+it=0 T=0.0500 obj=6.1286 best=6.1286 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 9: cost=0.042874939255673206
+it=0 T=0.0500 obj=0.3695 best=0.3695 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 10: cost=0.04784040792198019
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 11: cost=nan
+it=0 T=0.0500 obj=0.3751 best=0.3751 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 12: cost=0.07265209717770182
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 13: cost=nan
+it=0 T=0.0500 obj=0.3588 best=0.3588 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 14: cost=-0.004087017415420169
+it=0 T=0.0500 obj=2.7030 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 15: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 16: cost=nan
+it=0 T=0.0500 obj=2.6188 best=2.6188 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.6188 best=2.6188 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 17: cost=nan
+it=0 T=0.0500 obj=6.1286 best=6.1286 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=6.1286 best=6.1286 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 18: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 19: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 20: cost=nan
+it=0 T=0.0500 obj=3.4584 best=3.4584 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 21: cost=nan
+it=0 T=0.0500 obj=2.2468 best=2.2468 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 22: cost=0.028662323800125122
+it=0 T=0.0500 obj=3.1625 best=3.1625 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 23: cost=0.05399797155758579
+it=0 T=0.0500 obj=0.3541 best=0.3541 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 24: cost=0.06947373183019573
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 25: cost=0.07438208319838419
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 26: cost=nan
+it=0 T=0.0500 obj=0.3623 best=0.3623 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 27: cost=0.07758956763816777
+it=0 T=0.0500 obj=3.9289 best=3.9289 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.9289 best=3.9289 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 28: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 29: cost=0.07988995483465344
+it=0 T=0.0500 obj=0.3347 best=0.3347 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 30: cost=0.020945555855382714
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 31: cost=0.10105558440680457
+it=0 T=0.0500 obj=0.3419 best=0.3419 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 32: cost=0.004293539991138018
+it=0 T=0.0500 obj=3.7522 best=3.7522 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.7522 best=3.7522 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 33: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 34: cost=0.07438208319838419
+it=0 T=0.0500 obj=0.3928 best=0.3928 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 35: cost=0.07761163302990914
+it=0 T=0.0500 obj=2.2468 best=2.2468 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 36: cost=0.028662323800125122
+it=0 T=0.0500 obj=0.3654 best=0.3654 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 37: cost=0.02843246701655322
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 38: cost=0.0646725193455564
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 39: cost=nan
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 40: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 41: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4589 best=2.4589 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 42: cost=nan
+it=0 T=0.0500 obj=0.3827 best=0.3827 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 43: cost=0.07212057314548703
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 44: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 45: cost=0.0646725193455564
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 46: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 47: cost=0.0732070836066886
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 48: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 49: cost=0.0732070836066886
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 50: cost=nan
+it=0 T=0.0500 obj=0.3541 best=0.3541 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 51: cost=0.06947373183019573
+it=0 T=0.0500 obj=2.6615 best=2.6615 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.6615 best=2.6615 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 52: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 53: cost=nan
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 54: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 55: cost=nan
+it=0 T=0.0500 obj=3.1495 best=3.1495 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 56: cost=0.03562661653722188
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 57: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 58: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 59: cost=nan
+it=0 T=0.0500 obj=0.3588 best=0.3588 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 60: cost=-0.004087017415420169
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 61: cost=nan
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 62: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 63: cost=nan
+it=0 T=0.0500 obj=4.2361 best=4.2361 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=4.2361 best=4.2361 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 64: cost=nan
+it=0 T=0.0500 obj=2.3796 best=2.3796 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.3796 best=2.3796 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 65: cost=nan
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 66: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 67: cost=0.0732070836066886
+it=0 T=0.0500 obj=0.3541 best=0.3541 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 68: cost=0.06947373183019573
+it=0 T=0.0500 obj=2.5185 best=2.5185 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.5185 best=2.5185 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 69: cost=nan
+it=0 T=0.0500 obj=6.1286 best=6.1286 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=6.1286 best=6.1286 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 70: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 71: cost=0.0646725193455564
+it=0 T=0.0500 obj=0.3641 best=0.3641 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 72: cost=0.012711000441326725
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 73: cost=nan
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 74: cost=nan
+it=0 T=0.0500 obj=4.4948 best=4.4948 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=4.4948 best=4.4948 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 75: cost=nan
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 76: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 77: cost=0.009556466431283384
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 78: cost=0.025768418957643924
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 79: cost=0.0646725193455564
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 80: cost=0.0646725193455564
+it=0 T=0.0500 obj=2.7030 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 81: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 82: cost=0.07988995483465344
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 83: cost=nan
+it=0 T=0.0500 obj=0.3734 best=0.3734 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 84: cost=0.02627375647377872
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 85: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 86: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 87: cost=0.0732070836066886
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 88: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 89: cost=nan
+it=0 T=0.0500 obj=3.4584 best=3.4584 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 90: cost=nan
+it=0 T=0.0500 obj=3.3967 best=3.3967 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3967 best=3.3967 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 91: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=4.5311 best=4.5311 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 92: cost=nan
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 93: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4589 best=2.4589 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 94: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 95: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 96: cost=0.0646725193455564
+it=0 T=0.0500 obj=3.9289 best=3.9289 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.9289 best=3.9289 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 97: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 98: cost=0.009556466431283384
+it=0 T=0.0500 obj=0.3588 best=0.3588 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 99: cost=-0.004087017415420169
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4589 best=2.4589 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 100: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 101: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 102: cost=nan
+it=0 T=0.0500 obj=0.3588 best=0.3588 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 103: cost=-0.004087017415420169
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 104: cost=nan
+it=0 T=0.0500 obj=2.2915 best=2.2915 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.2915 best=2.2915 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 105: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 106: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 107: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 108: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 109: cost=0.08024891302839421
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 110: cost=nan
+it=0 T=0.0500 obj=0.3612 best=0.3612 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 111: cost=0.059501406958953895
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 112: cost=nan
+it=0 T=0.0500 obj=2.3796 best=2.3796 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.3796 best=2.3796 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 113: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 114: cost=nan
+it=0 T=0.0500 obj=0.3292 best=0.3292 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 115: cost=0.011169743070917004
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 116: cost=nan
+it=0 T=0.0500 obj=0.3827 best=0.3827 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 117: cost=0.07212057314548703
+it=0 T=0.0500 obj=2.7030 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 118: cost=nan
+it=0 T=0.0500 obj=4.2361 best=4.2361 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=4.2361 best=4.2361 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 119: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 120: cost=0.07988995483465344
+it=0 T=0.0500 obj=3.1625 best=3.1625 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 121: cost=0.05399797155758579
+it=0 T=0.0500 obj=0.3722 best=0.3722 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 122: cost=0.01653149332695808
+it=0 T=0.0500 obj=3.7522 best=3.7522 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.7522 best=3.7522 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 123: cost=nan
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 124: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 125: cost=0.0732070836066886
+it=0 T=0.0500 obj=3.1454 best=3.1454 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.1454 best=3.1454 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 126: cost=nan
+it=0 T=0.0500 obj=2.1281 best=2.1281 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.1281 best=2.1281 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 127: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 128: cost=nan
+it=0 T=0.0500 obj=0.3894 best=0.3894 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 129: cost=0.09995925836406122
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 130: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 131: cost=nan
+it=0 T=0.0500 obj=2.5185 best=2.5185 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 132: cost=0.09265908417166424
+it=0 T=0.0500 obj=0.3654 best=0.3654 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 133: cost=0.02843246701655322
+it=0 T=0.0500 obj=0.3064 best=0.3064 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 134: cost=-0.0020774143302451087
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 135: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 136: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 137: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 138: cost=nan
+it=0 T=0.0500 obj=2.6188 best=2.6188 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.6188 best=2.6188 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 139: cost=nan
+it=0 T=0.0500 obj=0.3588 best=0.3588 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 140: cost=-0.004087017415420169
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 141: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 142: cost=nan
+it=0 T=0.0500 obj=2.7030 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 143: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 144: cost=nan
+it=0 T=0.0500 obj=4.2361 best=4.2361 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=4.2361 best=4.2361 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 145: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 146: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 147: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 148: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 149: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 150: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 151: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 152: cost=nan
+it=0 T=0.0500 obj=2.9841 best=2.9841 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9841 best=2.9841 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 153: cost=nan
+it=0 T=0.0500 obj=2.9841 best=2.9841 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9841 best=2.9841 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 154: cost=nan
+it=0 T=0.0500 obj=3.4143 best=3.4143 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.4143 best=3.4143 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 155: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 156: cost=0.0646725193455564
+it=0 T=0.0500 obj=0.3588 best=0.3588 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 157: cost=-0.004087017415420169
+it=0 T=0.0500 obj=0.3471 best=0.3471 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 158: cost=0.04989152971525784
+it=0 T=0.0500 obj=2.2468 best=2.2468 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.2468 best=2.2468 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 159: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 160: cost=nan
+it=0 T=0.0500 obj=0.3471 best=0.3471 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 161: cost=0.04989152971525784
+it=0 T=0.0500 obj=0.2985 best=0.2985 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 162: cost=0.009250340586844708
+it=0 T=0.0500 obj=5.0751 best=5.0751 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=5.0751 best=5.0751 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 163: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 164: cost=0.0732070836066886
+it=0 T=0.0500 obj=0.3588 best=0.3588 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 165: cost=-0.004087017415420169
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 166: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 167: cost=nan
+it=0 T=0.0500 obj=3.3967 best=3.3967 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3967 best=3.3967 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 168: cost=nan
+it=0 T=0.0500 obj=0.3928 best=0.3928 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 169: cost=0.07761163302990914
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 170: cost=nan
+it=0 T=0.0500 obj=0.3435 best=0.3435 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 171: cost=0.00592839445037413
+it=0 T=0.0500 obj=2.2915 best=2.2915 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.2915 best=2.2915 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 172: cost=nan
+it=0 T=0.0500 obj=2.7030 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 173: cost=nan
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 174: cost=nan
+it=0 T=0.0500 obj=0.3428 best=0.3428 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 175: cost=0.00709741356231719
+it=0 T=0.0500 obj=0.3603 best=0.3603 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 176: cost=0.07274439394109278
+it=0 T=0.0500 obj=3.3967 best=3.3967 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3967 best=3.3967 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 177: cost=nan
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 178: cost=nan
+it=0 T=0.0500 obj=0.3603 best=0.3603 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 179: cost=0.07274439394109278
+it=0 T=0.0500 obj=0.3588 best=0.3588 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 180: cost=-0.004087017415420169
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.4944 best=2.4944 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 181: cost=nan
+it=0 T=0.0500 obj=4.5524 best=4.5524 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=4.5524 best=4.5524 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 182: cost=nan
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9269 best=2.9269 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 183: cost=nan
+it=0 T=0.0500 obj=2.7030 best=2.7025 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.7025 best=2.7025 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 184: cost=nan
+it=0 T=0.0500 obj=2.9841 best=2.9841 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.9841 best=2.9841 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 185: cost=nan
+it=0 T=0.0500 obj=0.3588 best=0.3588 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 186: cost=-0.004087017415420169
+it=0 T=0.0500 obj=0.3541 best=0.3541 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 187: cost=0.06947373183019573
+it=0 T=0.0500 obj=3.9289 best=3.9289 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.9289 best=3.9289 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 188: cost=nan
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.7271 best=3.7271 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 189: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 190: cost=0.0646725193455564
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 191: cost=nan
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.3610 best=3.3610 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 192: cost=nan
+it=0 T=0.0500 obj=2.3796 best=2.3796 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=2.3796 best=2.3796 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 193: cost=nan
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 194: cost=0.0646725193455564
+it=0 T=0.0500 obj=0.3471 best=0.3471 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 195: cost=0.04989152971525784
+it=0 T=0.0500 obj=3.7522 best=3.7522 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=0 T=0.0500 obj=3.7522 best=3.7522 acc=1
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 196: cost=nan
+it=0 T=0.0500 obj=0.3827 best=0.3827 acc=0
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 197: cost=0.07212057314548703
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 198: cost=0.0646725193455564
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+placebo 199: cost=0.0646725193455564
+{
+  "n": 200,
+  "cost_median": 0.0646725193455564,
+  "cost_iqr": [
+    0.022151271630948016,
+    0.07274439394109278
+  ],
+  "n_feasible": 78,
+  "cost_p5_p95": [
+    -0.004087017415420169,
+    0.07994379856371456
+  ],
+  "cost_mean": 0.04862409660015679,
+  "cost_std": 0.03084350924224427
+}

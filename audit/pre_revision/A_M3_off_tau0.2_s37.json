@@ -1,0 +1,11 @@
+{
+  "model": "M3",
+  "boundary_on": false,
+  "tau": 0.2,
+  "seed": 37,
+  "status": "UNKNOWN",
+  "runtime_sec": 300.0467948913574,
+  "objective": null,
+  "bound": null,
+  "gap": null
+}

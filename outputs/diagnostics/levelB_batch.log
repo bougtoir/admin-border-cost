@@ -1,0 +1,320 @@
+FAIL M2 True 0.1 11 ValueError('The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()')
+greedy_repair moves=0 dev=0.1609
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=60000 T=0.0100 obj=2.0383 best=0.3241 acc=26777
+{
+  "model": "M1",
+  "boundary_on": true,
+  "seed": 11,
+  "best_objective": 0.32408315168805796,
+  "runtime_sec": 359.6191351413727
+}
+greedy_repair moves=0 dev=0.1609
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=60000 T=0.0100 obj=2.0383 best=0.3241 acc=26777
+{
+  "model": "M2",
+  "boundary_on": true,
+  "seed": 11,
+  "best_objective": 0.32408315168805796,
+  "runtime_sec": 370.8719832897186
+}
+greedy_repair moves=0 dev=0.1574
+it=0 T=0.0500 obj=0.3287 best=0.3287 acc=0
+it=20000 T=0.0292 obj=1.7749 best=0.3287 acc=6535
+it=60000 T=0.0100 obj=1.8649 best=0.3287 acc=23983
+it=80000 T=0.0058 obj=1.8770 best=0.3287 acc=32725
+it=100000 T=0.0034 obj=1.8734 best=0.3287 acc=41168
+{
+  "model": "M3",
+  "boundary_on": false,
+  "seed": 11,
+  "best_objective": 0.32868095008546827,
+  "runtime_sec": 384.5652918815613
+}
+greedy_repair moves=0 dev=0.1609
+it=0 T=0.0500 obj=0.4043 best=0.4043 acc=0
+it=60000 T=0.0100 obj=2.0383 best=0.4043 acc=26777
+{
+  "model": "M4",
+  "boundary_on": true,
+  "seed": 11,
+  "best_objective": 0.4043223380989761,
+  "runtime_sec": 374.08419275283813
+}
+greedy_repair moves=0 dev=0.1609
+it=0 T=0.0500 obj=0.4043 best=0.4043 acc=0
+it=20000 T=0.0292 obj=3.0415 best=0.4043 acc=8206
+it=40000 T=0.0171 obj=2.0612 best=0.4043 acc=18830
+it=60000 T=0.0100 obj=2.0022 best=0.4043 acc=31069
+it=80000 T=0.0058 obj=2.0078 best=0.4043 acc=42801
+it=100000 T=0.0034 obj=2.0119 best=0.4043 acc=53974
+{
+  "model": "M4",
+  "boundary_on": false,
+  "seed": 11,
+  "best_objective": 0.4043223380989761,
+  "runtime_sec": 381.684757232666
+}
+greedy_repair moves=176 dev=0.1999
+it=0 T=0.0500 obj=3.8063 best=3.8063 acc=0
+it=20000 T=0.0292 obj=2.2076 best=3.8063 acc=12934
+it=40000 T=0.0171 obj=2.0105 best=3.8063 acc=25660
+it=80000 T=0.0058 obj=2.0006 best=3.8063 acc=49031
+it=100000 T=0.0034 obj=2.0028 best=3.8063 acc=60044
+{
+  "model": "M1",
+  "boundary_on": true,
+  "seed": 23,
+  "best_objective": 3.8062598301255894,
+  "runtime_sec": 378.00753474235535
+}
+greedy_repair moves=0 dev=0.1609
+it=40000 T=0.0171 obj=2.8193 best=0.3241 acc=15578
+it=60000 T=0.0100 obj=2.0075 best=0.3241 acc=28005
+it=80000 T=0.0058 obj=2.0051 best=0.3241 acc=40463
+it=100000 T=0.0034 obj=2.0012 best=0.3241 acc=52706
+{
+  "model": "M2",
+  "boundary_on": true,
+  "seed": 23,
+  "best_objective": 0.32408315168805796,
+  "runtime_sec": 369.07164669036865
+}
+greedy_repair moves=160 dev=0.1999
+it=0 T=0.0500 obj=2.6116 best=2.6095 acc=1
+it=40000 T=0.0171 obj=2.0329 best=2.6095 acc=26493
+it=100000 T=0.0034 obj=2.0014 best=2.6095 acc=62354
+{
+  "model": "M3",
+  "boundary_on": false,
+  "seed": 23,
+  "best_objective": 2.60945333258502,
+  "runtime_sec": 443.6044282913208
+}
+greedy_repair moves=176 dev=0.1999
+it=0 T=0.0500 obj=3.9133 best=3.9133 acc=0
+it=20000 T=0.0292 obj=2.2076 best=3.9133 acc=12934
+it=40000 T=0.0171 obj=2.0105 best=3.9133 acc=25660
+it=80000 T=0.0058 obj=2.0006 best=3.9133 acc=49031
+it=100000 T=0.0034 obj=2.0028 best=3.9133 acc=60044
+{
+  "model": "M4",
+  "boundary_on": true,
+  "seed": 23,
+  "best_objective": 3.913284271512654,
+  "runtime_sec": 408.5338788032532
+}
+greedy_repair moves=160 dev=0.1999
+it=0 T=0.0500 obj=2.7186 best=2.7165 acc=1
+it=40000 T=0.0171 obj=2.0329 best=2.7165 acc=26493
+it=100000 T=0.0034 obj=2.0014 best=2.7165 acc=62354
+{
+  "model": "M4",
+  "boundary_on": false,
+  "seed": 23,
+  "best_objective": 2.716477773972085,
+  "runtime_sec": 400.87000846862793
+}
+greedy_repair moves=176 dev=0.1999
+it=0 T=0.0500 obj=2.0033 best=3.8063 acc=1
+it=20000 T=0.0292 obj=2.3454 best=3.8063 acc=12892
+it=40000 T=0.0171 obj=2.2491 best=3.8063 acc=25723
+it=60000 T=0.0100 obj=2.0440 best=3.8063 acc=37979
+it=80000 T=0.0058 obj=2.0043 best=3.8063 acc=49638
+{
+  "model": "M1",
+  "boundary_on": true,
+  "seed": 37,
+  "best_objective": 3.8062598301255894,
+  "runtime_sec": 402.4399154186249
+}
+greedy_repair moves=176 dev=0.1999
+it=0 T=0.0500 obj=2.0033 best=3.8063 acc=1
+it=20000 T=0.0292 obj=2.3454 best=3.8063 acc=12892
+it=40000 T=0.0171 obj=2.2491 best=3.8063 acc=25723
+it=60000 T=0.0100 obj=2.0440 best=3.8063 acc=37979
+it=80000 T=0.0058 obj=2.0043 best=3.8063 acc=49638
+{
+  "model": "M2",
+  "boundary_on": true,
+  "seed": 37,
+  "best_objective": 3.8062598301255894,
+  "runtime_sec": 380.89190006256104
+}
+greedy_repair moves=160 dev=0.1999
+it=0 T=0.0500 obj=2.6095 best=2.6095 acc=0
+it=20000 T=0.0292 obj=2.3322 best=2.6095 acc=13572
+it=80000 T=0.0058 obj=2.1512 best=2.6095 acc=51472
+{
+  "model": "M3",
+  "boundary_on": false,
+  "seed": 37,
+  "best_objective": 2.60945333258502,
+  "runtime_sec": 376.3606414794922
+}
+greedy_repair moves=176 dev=0.1999
+it=0 T=0.0500 obj=2.0033 best=3.9133 acc=1
+it=20000 T=0.0292 obj=2.3454 best=3.9133 acc=12892
+it=40000 T=0.0171 obj=2.2491 best=3.9133 acc=25723
+it=60000 T=0.0100 obj=2.0440 best=3.9133 acc=37979
+it=80000 T=0.0058 obj=2.0043 best=3.9133 acc=49638
+{
+  "model": "M4",
+  "boundary_on": true,
+  "seed": 37,
+  "best_objective": 3.913284271512654,
+  "runtime_sec": 374.74655270576477
+}
+greedy_repair moves=0 dev=0.0941
+it=0 T=0.0500 obj=0.3274 best=0.3274 acc=0
+it=20000 T=0.0292 obj=2.1720 best=0.3274 acc=8811
+it=40000 T=0.0171 obj=2.0344 best=0.3274 acc=21345
+it=60000 T=0.0100 obj=2.0252 best=0.3274 acc=32854
+it=80000 T=0.0058 obj=2.0017 best=0.3274 acc=44076
+it=100000 T=0.0034 obj=2.0041 best=0.3274 acc=55010
+{
+  "model": "M4",
+  "boundary_on": false,
+  "seed": 37,
+  "best_objective": 0.32742776606683344,
+  "runtime_sec": 374.12391424179077
+}
+greedy_repair moves=0 dev=0.1609
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=20000 T=0.0292 obj=2.2583 best=0.3241 acc=4540
+it=40000 T=0.0171 obj=2.3440 best=0.3241 acc=12521
+it=60000 T=0.0100 obj=2.3762 best=0.3241 acc=21272
+{
+  "model": "M1",
+  "boundary_on": true,
+  "seed": 41,
+  "best_objective": 0.32408315168805796,
+  "runtime_sec": 391.3090560436249
+}
+greedy_repair moves=0 dev=0.1609
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=20000 T=0.0292 obj=2.2583 best=0.3241 acc=4540
+it=40000 T=0.0171 obj=2.3440 best=0.3241 acc=12521
+it=60000 T=0.0100 obj=2.3762 best=0.3241 acc=21272
+{
+  "model": "M2",
+  "boundary_on": true,
+  "seed": 41,
+  "best_objective": 0.32408315168805796,
+  "runtime_sec": 385.15340089797974
+}
+greedy_repair moves=0 dev=0.1609
+it=0 T=0.0500 obj=0.3241 best=0.3241 acc=0
+it=20000 T=0.0292 obj=2.0184 best=0.3241 acc=11211
+it=40000 T=0.0171 obj=2.0027 best=0.3241 acc=24075
+it=60000 T=0.0100 obj=2.0009 best=0.3241 acc=36066
+it=80000 T=0.0058 obj=2.0022 best=0.3241 acc=47203
+it=100000 T=0.0034 obj=2.0003 best=0.3241 acc=57939
+{
+  "model": "M3",
+  "boundary_on": false,
+  "seed": 41,
+  "best_objective": 0.32408315168805796,
+  "runtime_sec": 376.5077528953552
+}
+greedy_repair moves=0 dev=0.1609
+it=0 T=0.0500 obj=0.4043 best=0.4043 acc=0
+it=20000 T=0.0292 obj=2.6736 best=0.4043 acc=5278
+it=60000 T=0.0100 obj=2.0336 best=0.4043 acc=26765
+it=80000 T=0.0058 obj=2.0002 best=0.4043 acc=38600
+{
+  "model": "M4",
+  "boundary_on": true,
+  "seed": 41,
+  "best_objective": 0.4043223380989761,
+  "runtime_sec": 375.9457516670227
+}
+greedy_repair moves=0 dev=0.1609
+it=0 T=0.0500 obj=0.4043 best=0.4043 acc=0
+it=20000 T=0.0292 obj=2.1192 best=0.4043 acc=10714
+it=100000 T=0.0034 obj=2.0013 best=0.4043 acc=57310
+{
+  "model": "M4",
+  "boundary_on": false,
+  "seed": 41,
+  "best_objective": 0.4043223380989761,
+  "runtime_sec": 365.4771604537964
+}
+greedy_repair moves=18 dev=0.0993
+it=0 T=0.0500 obj=1.4732 best=1.4732 acc=0
+greedy_repair moves=18 dev=0.0993
+it=0 T=0.0500 obj=1.4732 best=1.4732 acc=0
+it=20000 T=0.0292 obj=1.3035 best=1.4732 acc=13717
+it=60000 T=0.0100 obj=1.0155 best=1.4732 acc=38061
+it=80000 T=0.0058 obj=1.0013 best=1.4732 acc=49025
+it=100000 T=0.0034 obj=1.0037 best=1.4732 acc=59611
+{
+  "model": "M3",
+  "boundary_on": false,
+  "seed": 11,
+  "best_objective": 1.4731663200113372,
+  "runtime_sec": 367.6406934261322
+}
+greedy_repair moves=0 dev=0.1265
+it=0 T=0.0500 obj=0.2942 best=0.2942 acc=0
+it=20000 T=0.0292 obj=2.5502 best=0.2942 acc=7345
+it=60000 T=0.0100 obj=1.5366 best=0.2942 acc=29953
+it=80000 T=0.0058 obj=1.5119 best=0.2942 acc=41536
+it=100000 T=0.0034 obj=1.5067 best=0.2942 acc=52557
+{
+  "model": "M2",
+  "boundary_on": true,
+  "seed": 11,
+  "best_objective": 0.29421792988642403,
+  "runtime_sec": 372.30687046051025
+}
+greedy_repair moves=2 dev=0.1466
+it=0 T=0.0500 obj=0.9129 best=0.9129 acc=0
+it=20000 T=0.0292 obj=1.5553 best=0.9127 acc=13027
+it=40000 T=0.0171 obj=1.5205 best=0.9127 acc=25738
+it=80000 T=0.0058 obj=1.5186 best=0.9127 acc=48934
+it=100000 T=0.0034 obj=1.5117 best=0.9127 acc=59968
+{
+  "model": "M3",
+  "boundary_on": false,
+  "seed": 11,
+  "best_objective": 0.9127144852428519,
+  "runtime_sec": 371.62683939933777
+}
+greedy_repair moves=0 dev=0.2577
+it=0 T=0.0500 obj=0.4080 best=0.4080 acc=0
+it=20000 T=0.0292 obj=2.6907 best=0.4080 acc=7911
+it=60000 T=0.0100 obj=2.8519 best=0.4080 acc=28519
+{
+  "model": "M2",
+  "boundary_on": true,
+  "seed": 11,
+  "best_objective": 0.408015056090845,
+  "runtime_sec": 353.2611153125763
+}
+greedy_repair moves=0 dev=0.2227
+it=0 T=0.0500 obj=0.3863 best=0.3863 acc=0
+it=20000 T=0.0292 obj=3.0225 best=0.3863 acc=8436
+it=40000 T=0.0171 obj=3.0004 best=0.3863 acc=20456
+it=60000 T=0.0100 obj=3.0266 best=0.3863 acc=32590
+it=100000 T=0.0034 obj=3.0001 best=0.3863 acc=54719
+{
+  "model": "M3",
+  "boundary_on": false,
+  "seed": 11,
+  "best_objective": 0.3863438642561787,
+  "runtime_sec": 374.0848722457886
+}
+greedy_repair moves=176 dev=0.1999
+it=0 T=0.0500 obj=118576.0000 best=118576.0000 acc=0
+it=20000 T=0.0292 obj=118576.0000 best=118576.0000 acc=1876
+it=40000 T=0.0171 obj=118576.0000 best=118576.0000 acc=4244
+it=80000 T=0.0058 obj=118576.0000 best=118576.0000 acc=9032
+{
+  "model": "M5",
+  "boundary_on": true,
+  "seed": 11,
+  "best_objective": 118576.0,
+  "runtime_sec": 407.59150195121765
+}

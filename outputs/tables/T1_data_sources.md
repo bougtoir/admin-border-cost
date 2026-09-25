@@ -1,0 +1,6 @@
+| dataset                            | source                          | raw path                     | coverage                               |
+|:-----------------------------------|:--------------------------------|:-----------------------------|:---------------------------------------|
+| Small-area boundaries + population | e-Stat 統計GIS r2ka (2020 census) | data/raw/r2ka_*.zip          | 12,398 polygons (11,978 units)         |
+| Commuting/schooling OD             | e-Stat Census Table 6-1 (2020)  | data/raw/od_*.xlsx           | municipality×municipality (ward-level) |
+| Population projections             | IPSS 2023 municipal projections | data/raw/ipss_kekkahyo1.xlsx | 2020–2050, 55 municipal units          |
+| Statutory districts                | 公職選挙法 別表第一 (e-Gov law API)      | data/raw/law_kosenkyoho.xml  | Kyoto 6 + Shiga 3 = 9                  |

@@ -1,0 +1,187 @@
+{
+  "checks": [
+    {
+      "check": "checksum:admin_border_cost/data/raw/estat_gis_boundary/r2ka26_小地域境界_京都府_2020国勢調査.zip",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "checksum:admin_border_cost/data/raw/estat_gis_boundary/r2ka25_小地域境界_滋賀県_2020国勢調査.zip",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "checksum:admin_border_cost/data/raw/egov/公職選挙法_昭和25年法律第100号_2026-09-24取得.xml",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "checksum:admin_border_cost/data/raw/soumu/滋賀県_区割り図_000853831.pdf",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "checksum:admin_border_cost/data/raw/ipss/ipss_kekkahyo1.xlsx",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "checksum:admin_border_cost/data/raw/estat_census_od/od_shiga_61.xlsx",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "checksum:admin_border_cost/data/raw/estat_census_od/od_kyoto_61.xlsx",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "model_results.csv exists",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "A M1 runs present",
+      "ok": true,
+      "detail": "n=4"
+    },
+    {
+      "check": "A M1 feasible",
+      "ok": true,
+      "detail": "dev min=0.161"
+    },
+    {
+      "check": "A M1 contiguous",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "A M2 runs present",
+      "ok": true,
+      "detail": "n=4"
+    },
+    {
+      "check": "A M2 feasible",
+      "ok": true,
+      "detail": "dev min=0.161"
+    },
+    {
+      "check": "A M2 contiguous",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "A M3 runs present",
+      "ok": true,
+      "detail": "n=5"
+    },
+    {
+      "check": "A M3 feasible",
+      "ok": true,
+      "detail": "dev min=0.157"
+    },
+    {
+      "check": "A M3 contiguous",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "B M1 runs present",
+      "ok": true,
+      "detail": "n=4"
+    },
+    {
+      "check": "B M1 feasible",
+      "ok": true,
+      "detail": "dev min=0.162"
+    },
+    {
+      "check": "B M1 contiguous",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "B M2 runs present",
+      "ok": true,
+      "detail": "n=4"
+    },
+    {
+      "check": "B M2 feasible",
+      "ok": true,
+      "detail": "dev min=0.162"
+    },
+    {
+      "check": "B M2 contiguous",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "B M3 runs present",
+      "ok": true,
+      "detail": "n=5"
+    },
+    {
+      "check": "B M3 feasible",
+      "ok": true,
+      "detail": "dev min=0.162"
+    },
+    {
+      "check": "B M3 contiguous",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "ON/OFF paired runs",
+      "ok": true,
+      "detail": "pairs=14"
+    },
+    {
+      "check": "placebo n>=200",
+      "ok": true,
+      "detail": "n=200"
+    },
+    {
+      "check": "placebo paired solves (>=50 heuristic-feasible)",
+      "ok": true,
+      "detail": "feasible pairs=78/200 (infeasible borders are reported, not silently dropped)"
+    },
+    {
+      "check": "figures F1-F7",
+      "ok": true,
+      "detail": "['F1_study_area.png', 'F2_current_map.png', 'F3_optimal_on_off.png', 'F4_flow_network.png', 'F5_metric_comparison.png', 'F6_placebo.png', 'F7_future_robustness.png']"
+    },
+    {
+      "check": "tables T1-T6",
+      "ok": true,
+      "detail": "['T1_data_sources.md', 'T2_current_metrics.md', 'T3_on_off.md', 'T4_tau_sensitivity.md', 'T5_placebo.md', 'T6_future.md', 'T6b_min_intervention.md']"
+    },
+    {
+      "check": "manuscript_value:B_on_objective",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "manuscript_value:B_off_objective",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "manuscript_value:cost_border_B",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "manuscript_value:B_on_severed_flow_total",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "manuscript_value:B_current_max_rel_dev",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "failures": [],
+  "n_checks": 36,
+  "n_failures": 0
+}

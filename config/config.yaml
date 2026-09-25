@@ -1,0 +1,49 @@
+project:
+  name: admin_border_cost
+  crs_projected: "EPSG:6674"  # JGD2011 / Japan Plane Rectangular CS VI (Kyoto-Shiga)
+  seed: 20260924
+
+region:
+  prefectures: { "25": "滋賀県", "26": "京都府" }
+
+districts:
+  K: 9
+  # 公職選挙法別表第一 (as amended 2022-12-28) — municipality/ward name -> district label
+  definition:
+    滋賀1区: ["大津市", "高島市"]
+    滋賀2区: ["彦根市", "長浜市", "近江八幡市", "東近江市", "米原市", "日野町", "竜王町", "愛荘町", "豊郷町", "甲良町", "多賀町"]
+    滋賀3区: ["草津市", "守山市", "栗東市", "甲賀市", "野洲市", "湖南市"]
+    京都1区: ["京都市北区", "京都市上京区", "京都市中京区", "京都市下京区", "京都市南区"]
+    京都2区: ["京都市左京区", "京都市東山区", "京都市山科区"]
+    京都3区: ["京都市伏見区", "向日市", "長岡京市", "大山崎町"]
+    京都4区: ["京都市右京区", "京都市西京区", "亀岡市", "南丹市", "京丹波町"]
+    京都5区: ["福知山市", "舞鶴市", "綾部市", "宮津市", "京丹後市", "伊根町", "与謝野町"]
+    京都6区: ["宇治市", "城陽市", "八幡市", "京田辺市", "木津川市", "久御山町", "井手町", "宇治田原町", "笠置町", "和束町", "精華町", "南山城村"]
+
+optimization:
+  tau_primary: 0.20
+  tau_sensitivity: [0.10, 0.15, 0.30]
+  weights_primary: {pop: 1.0, compact: 0.3, split: 0.3, flow: 0.3}
+  pareto_weight_grid:
+    compact: [0.0, 0.1, 0.3, 0.6, 1.0]
+    split: [0.0, 0.3]
+    flow: [0.0, 0.1, 0.3, 0.6, 1.0]
+  seeds: [11, 23, 37, 41, 53, 67, 79, 97]
+  time_limit_level_a_sec: 300
+  time_limit_level_b_sec: 600
+  workers: 8
+
+flows:
+  primary_normalization: "symmetric"  # F_ij=(C_ij+C_ji)/2
+  sensitivity_normalizations: ["raw_bidirectional", "origin_normalized", "population_symmetric"]
+
+placebo:
+  n_borders: 200
+  pop_split_tol: 0.10
+  boundary_len_tol: 0.50
+  match_boundary_length_tol: 0.30
+  time_limit_sec: 60
+
+robustness:
+  projection_years: [2025, 2030, 2035, 2040, 2045, 2050]
+  durability_threshold_tau: 0.20
