@@ -1,0 +1,7 @@
+{
+ "model":"M3","boundary_on":false,"tau":0.2,"seed":11,
+ "status":"UNKNOWN","runtime_sec":900.11,
+ "hinted_from":"A_M2_on_tau0.2_s11_assign.csv",
+ "objective":null,"bound":null,
+ "note":"hinted + 900s still produced no incumbent; OFF upper bound = ON incumbent 1793321 (verified OFF-feasible by tests/test_invariants.py), OFF bound = 1261028 from original 300s run"
+}

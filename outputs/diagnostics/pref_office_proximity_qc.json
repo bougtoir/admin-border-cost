@@ -1,0 +1,38 @@
+{
+  "n_offices": 47,
+  "n_pairs": 1081,
+  "kyoto_shiga_distance_km": 10.451879573416393,
+  "kyoto_shiga_rank": 1,
+  "rank1_pair": "Shiga-Kyoto",
+  "rank1_km": 10.451879573416393,
+  "rank2_pair": "Saitama-Tokyo",
+  "rank2_km": 18.96726409313584,
+  "margin_km": 8.515384519719445,
+  "top5": [
+    {
+      "prefecture_a": "Shiga",
+      "prefecture_b": "Kyoto",
+      "distance_km": 10.451879573416393
+    },
+    {
+      "prefecture_a": "Saitama",
+      "prefecture_b": "Tokyo",
+      "distance_km": 18.96726409313584
+    },
+    {
+      "prefecture_a": "Tokyo",
+      "prefecture_b": "Kanagawa",
+      "distance_km": 27.20223474916412
+    },
+    {
+      "prefecture_a": "Osaka",
+      "prefecture_b": "Nara",
+      "distance_km": 28.67209076799155
+    },
+    {
+      "prefecture_a": "Gifu",
+      "prefecture_b": "Aichi",
+      "distance_km": 28.808485674863547
+    }
+  ]
+}

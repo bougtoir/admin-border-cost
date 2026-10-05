@@ -1,0 +1,11 @@
+{
+  "model": "M4",
+  "boundary_on": true,
+  "tau": 0.2,
+  "seed": 37,
+  "status": "UNKNOWN",
+  "runtime_sec": 300.0315225124359,
+  "objective": null,
+  "bound": null,
+  "gap": null
+}

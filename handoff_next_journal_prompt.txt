@@ -1,0 +1,117 @@
+================================================================
+HANDOFF PROMPT — Kyoto–Shiga administrative-border constraint study
+Submission package already built; journal rejected at desk (Applied Geography).
+Task: retarget the EXISTING package to a NEW journal and produce a new
+submission bundle. Do NOT redo the science.
+================================================================
+
+CONTEXT (read first)
+--------------------
+The project is COMPLETE and validated. The manuscript was desk-rejected by
+Applied Geography — that is a scope/venue decision, NOT a findings rejection.
+All analyses, numbers, and audit corrections are canonical and final.
+
+Working location (same bougtoir/wip monorepo pattern):
+- Repo: bougtoir/wip, project root: `admin_border_cost/`
+- Work on a NEW `devin/<timestamp>-<slug>` branch cut from master or the
+  existing `devin/1790235152-admin-border-cost` (which holds the full work).
+- Public mirror: `admin_border_cost` subdir syncs to bougtoir/admin-border-cost
+  via .github/workflows/sync-to-repos.yml (BRANCH_MAP + SUBDIR_MAP on master).
+- Read these first, in this order:
+  1. `admin_border_cost/README.md`
+  2. `admin_border_cost/docs/METHODS_DECISIONS.md`
+  3. `admin_border_cost/docs/LIMITATIONS.md` (incl. "Audit corrections")
+  4. `admin_border_cost/FINAL_REVISION_REPORT.md`,
+     `FINAL_FINISHING_REPORT.md`, `FINAL_WORDING_AUDIT.md`
+  5. `admin_border_cost/audit/FORENSIC_ISSUE_LEDGER.csv` (R1–R8 closed)
+  6. `manuscript/manuscript_text.md`, `manuscript/supplement.md`,
+     `manuscript/cover_letter.md`
+
+CANONICAL RESULTS — DO NOT CHANGE (verified, audit-corrected)
+-------------------------------------------------------------
+- Design: nonpartisan electoral-district spatial optimization, Kyoto (6) +
+  Shiga (3) HR districts, K=9. Level A: 55 municipal/ward units (CP-SAT,
+  300 s, hints, FEASIBLE status). Level B: 11,978 census small areas
+  (seeded simulated annealing). τ = 0.20 primary; seeds [11,23,37,41];
+  weights {pop:1.0, compact:0.3, split:0.3, flow:0.3}.
+- Estimand: Cost_border = L*(Boundary ON) − L*(Boundary OFF).
+- Level A true cost interval: **[0, 532,293] objective units** (≤ ~29.7% of
+  incumbent objective scale); CP-SAT status is FEASIBLE, NOT proven OPTIMAL
+  — report bounds, never claim optimality with an open gap.
+- Level B: best-found ON–OFF difference = 0 (maps coincide exactly;
+  final_objective 0.624529). Always phrase as "best-found difference",
+  never "the cost is zero" or "optimal".
+- Placebo borders: 200 generated, 78 feasible, 122 "no feasible incumbent
+  found" — NEVER call these proven-infeasible. Feasible median cost 0.0647
+  (IQR 0.0222–0.0727); real-border heuristic cost 0.0245 → 10th percentile.
+- Cross-border OD flow: real border crosses 39,733 commuting/schooling trips
+  vs placebo median ~99,420 → real border below ALL 200 placebos
+  (0th percentile).
+- Watershed: the administrative border broadly ALIGNS with the Lake Biwa
+  watershed — consistency/alignment language only, NEVER causal
+  ("because/therefore/explains" is banned). Functional-interface claim:
+  "an unusually weak functional interface relative to the matched placebo
+  borders" — never "genuine/natural/true functional divide".
+- These values are injected from `manuscript/manuscript_values.csv` via
+  {{key}} tokens — NEVER hardcode numbers in prose; a missing key must fail
+  the build.
+
+HARD RULES (carried over, binding)
+----------------------------------
+- Never fabricate data, citations, or DOIs. Every reference must resolve.
+- Nonpartisan by design: no party/vote-share variables anywhere.
+- Claim strength: "exact/optimal/infeasible" only where the solver proved it.
+- Prose precision: thousands separators, ~3 decimals.
+- Figures AND tables cited in body text, numbered by FIRST-CITATION order;
+  in manuscript_inline.docx each is inserted immediately after its
+  first-citation paragraph.
+- Word .docx: math as native OMML equations (see `src/report/docx_rich.py`);
+  *italic*/**bold** as real styles; no hard wraps from markdown source.
+- Figures as separate files for journal submission (not only embedded).
+- Raw data + SHA-256 ledger persist locally; public sync via workflow.
+
+YOUR TASK
+---------
+1. TARGET JOURNAL SELECTION — ask the user which journal, or if they
+   specify one here, use it. Reasonable fits (verify current guide):
+   Political Geography; Electoral Studies; Journal of Geographical Systems;
+   Environment and Planning B; Journal of Maps; Papers in Regional Science.
+   Pick up on scope: quantitative spatial/optimization methods paper.
+2. Fetch the NEW journal's author guidelines (word limits, abstract length,
+   reference style, figure/table format, anonymization policy, structure).
+   Document the delta vs the current package in `docs/JOURNAL_REQUIREMENTS.md`
+   (update, keep the old section marked superseded).
+3. Retarget the manuscript:
+   - Restructure to the new journal's format (section order, headings).
+   - Adjust abstract length, keywords, title page, cover letter (new
+     editor-in-chief / journal name; stand-alone cover letter as .docx too).
+   - Convert references to the new citation style; renumber/verify order.
+   - Main text length: the current ~2,800-word body is short for most
+     geography journals (AG wanted ≥4,500). Expand WHERE evidence already
+     exists — methods detail, placebo design, sensitivity, limitations,
+     applied implications — WITHOUT new analyses and WITHOUT changing
+     canonical numbers. Expansion uses only documented findings.
+   - Keep all claim-strength corrections and banned wording listed above.
+4. Regenerate outputs via the existing builders:
+   `cd admin_border_cost && .venv/bin/python -m src.report.build_manuscript`
+   `... build_inline_docx`, `... build_supplement`, `... build_cover_letter`,
+   `... qc_report`, plus ruff clean.
+5. Produce a NEW submission zip: manuscript.docx, manuscript_inline.docx,
+   supplement.docx, cover_letter.docx, figures/ (F1–F7 PNG),
+   tables/ (T1–T6 CSV), CLAIM_EVIDENCE_MATRIX.csv, README describing
+   contents. Name it for the new journal.
+6. Write `NEXT_JOURNAL_RETARGET_REPORT.md`: venue chosen, guideline delta,
+   every structural/wording change made, and confirmation that no canonical
+   result, figure, or table data changed.
+7. Commit+push the branch; report the public-sync path.
+
+DO NOT
+------
+- rerun optimization/simulations/placebos (results are final);
+- change canonical numbers or table/figure data;
+- reintroduce banned wording (causal watershed, "genuine functional divide",
+  optimal/infeasible overclaims);
+- restart the project or clone a new repo;
+- contact the old journal or fabricate reviewer comments.
+
+Finish without requesting confirmation except the target-journal choice.

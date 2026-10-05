@@ -1,0 +1,91 @@
+{
+  "n_origin_munis_with_outflows": 55,
+  "n_od_pairs_total": 104610,
+  "n_within_region_pairs": 3025,
+  "total_flow_within_region": 1784740.0,
+  "cross_pref_flow_Kyoto_to_Shiga": 22487.0,
+  "cross_pref_flow_Shiga_to_Kyoto": 56979.0,
+  "flow_to_outside_region": 273959.0,
+  "top_cross_pref_pairs": [
+    {
+      "origin": "25201",
+      "origin_name": "大津市",
+      "dest": "26106",
+      "dest_name": "京都市下京区",
+      "flow": 5043.0,
+      "f_sym": 0.0
+    },
+    {
+      "origin": "25201",
+      "origin_name": "大津市",
+      "dest": "26104",
+      "dest_name": "京都市中京区",
+      "flow": 3944.0,
+      "f_sym": 0.0
+    },
+    {
+      "origin": "25201",
+      "origin_name": "大津市",
+      "dest": "26110",
+      "dest_name": "京都市山科区",
+      "flow": 3585.0,
+      "f_sym": 0.0
+    },
+    {
+      "origin": "25201",
+      "origin_name": "大津市",
+      "dest": "26107",
+      "dest_name": "京都市南区",
+      "flow": 3416.0,
+      "f_sym": 0.0
+    },
+    {
+      "origin": "25201",
+      "origin_name": "大津市",
+      "dest": "26109",
+      "dest_name": "京都市伏見区",
+      "flow": 2809.0,
+      "f_sym": 0.0
+    },
+    {
+      "origin": "25201",
+      "origin_name": "大津市",
+      "dest": "26103",
+      "dest_name": "京都市左京区",
+      "flow": 2774.0,
+      "f_sym": 0.0
+    },
+    {
+      "origin": "26110",
+      "origin_name": "京都市山科区",
+      "dest": "25201",
+      "dest_name": "大津市",
+      "flow": 2215.0,
+      "f_sym": 0.0
+    },
+    {
+      "origin": "25201",
+      "origin_name": "大津市",
+      "dest": "26102",
+      "dest_name": "京都市上京区",
+      "flow": 1588.0,
+      "f_sym": 0.0
+    },
+    {
+      "origin": "25201",
+      "origin_name": "大津市",
+      "dest": "26105",
+      "dest_name": "京都市東山区",
+      "flow": 1473.0,
+      "f_sym": 0.0
+    },
+    {
+      "origin": "25206",
+      "origin_name": "草津市",
+      "dest": "26106",
+      "dest_name": "京都市下京区",
+      "flow": 1425.0,
+      "f_sym": 0.0
+    }
+  ]
+}

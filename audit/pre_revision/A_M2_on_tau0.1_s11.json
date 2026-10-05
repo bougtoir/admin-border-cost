@@ -1,0 +1,11 @@
+{
+  "model": "M2",
+  "boundary_on": true,
+  "tau": 0.1,
+  "seed": 11,
+  "status": "UNKNOWN",
+  "runtime_sec": 300.0300359725952,
+  "objective": null,
+  "bound": null,
+  "gap": null
+}

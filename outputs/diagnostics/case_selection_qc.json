@@ -1,0 +1,68 @@
+{
+  "n_od_pairs_all_prefs": 631701,
+  "pairs_reported": 15,
+  "kyoto_shiga": [
+    {
+      "pref_i": "26",
+      "pref_i_name": "Kyoto",
+      "pref_j": "25",
+      "pref_j_name": "Shiga",
+      "F_i_to_j": 22487.0,
+      "F_j_to_i": 56979.0,
+      "F_bidirectional": 79466.0,
+      "T_i": 1266101.0,
+      "T_j": 791323.0,
+      "E_i": 145431.0,
+      "E_j": 86976.0,
+      "R_i_to_j": 0.017760826347976977,
+      "R_j_to_i": 0.07200473131704753,
+      "R_ext_i_to_j": 0.15462315462315462,
+      "R_ext_j_to_i": 0.6551117549668874,
+      "P_i": 2578087,
+      "P_j": 1413610,
+      "S_bidir_over_Psum": 0.019907823664972568,
+      "S2_bidir_over_sqrtPiPj_exploratory": 0.04162629561238766
+    }
+  ],
+  "kyoto_pairs_rank_by_S": [
+    {
+      "pref_j_name": "Shiga",
+      "S_bidir_over_Psum": 0.019907823664972568
+    },
+    {
+      "pref_j_name": "Osaka",
+      "S_bidir_over_Psum": 0.015437501730062584
+    },
+    {
+      "pref_j_name": "Nara",
+      "S_bidir_over_Psum": 0.00940843958837276
+    },
+    {
+      "pref_j_name": "Hyogo",
+      "S_bidir_over_Psum": 0.0035187973177966824
+    },
+    {
+      "pref_j_name": "Fukui",
+      "S_bidir_over_Psum": 0.0010206430589395955
+    }
+  ],
+  "shiga_top_dest_share": [
+    {
+      "share_of_T": 0.07200473131704753,
+      "share_of_E": 0.6551117549668874
+    }
+  ],
+  "kyoto_top_ext": {
+    "27": 23,
+    "28": 5,
+    "29": 3,
+    "18": 2,
+    "25": 1,
+    "24": 1,
+    "13": 1
+  },
+  "shiga_top_ext": {
+    "26": 18,
+    "21": 1
+  }
+}
