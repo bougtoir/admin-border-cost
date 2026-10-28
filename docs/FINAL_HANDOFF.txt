@@ -1,9 +1,9 @@
 FINAL HANDOFF — PMR SI KYOTO–SHIGA v2
 =======================================
 wip repo: bougtoir/wip, branch devin/1791193556-pmr-kyoto-shiga
-wip commit: (see git log) — head after QC commit
+wip commit: ee48fdd3b (devin/1791193556-pmr-kyoto-shiga = devin/1790235152-admin-border-cost)
 Public repo: bougtoir/admin-border-cost (synced via sync-to-repos)
-Public commit: recorded in FINAL_PUBLIC_REPRODUCIBILITY_AUDIT.md
+Public commit: 45218b6c3 (main; reproduction-tested tree at 3c65a45e + this audit file)
 
 Final artifacts:
   manuscript/manuscript_PMR_SI_KYOTO_SHIGA_FINAL_v2.md (source of truth)
