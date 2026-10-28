@@ -1,0 +1,22 @@
+file,status,detail,verdict
+results/pmr_access/cross_function/cross_function_equity_extra.csv,not_regenerated_post_processing,committed artifact retained in repo,PASS
+results/pmr_access/cross_function/cross_function_metrics.csv,regenerated,numeric values identical; extra committed cols: [],PASS
+results/pmr_access/cross_function/cross_function_sensitivity.csv,regenerated,"NUMERIC DIFF; extra committed cols: [] — single p90_min cell differs by 0.00007 min (rounding-level, not cited)",PASS_WITH_NOTE
+results/pmr_access/education/EDUCATION_RESULTS.md,not_regenerated_post_processing,committed artifact retained in repo,PASS
+results/pmr_access/education/education_elementary_assignment.csv,regenerated,numeric values identical; extra committed cols: [],PASS
+results/pmr_access/education/education_elementary_metrics.csv,regenerated,"numeric values identical; extra committed cols: ['worst_decile_mean_border_km', 'worst_decile_mean_interior_km', 'worst_decile_border_minus_interior_km', 'n_border_muni_with_cross_assignment']",PASS
+results/pmr_access/education/education_elementary_sensitivity.csv,regenerated,numeric values identical; extra committed cols: [],PASS
+results/pmr_access/education/education_elementary_solver_log.txt,regenerated,solver log differs only in timestamps,PASS
+results/pmr_access/education/education_junior_high_assignment.csv,regenerated,numeric values identical; extra committed cols: [],PASS
+results/pmr_access/education/education_junior_high_metrics.csv,regenerated,"numeric values identical; extra committed cols: ['worst_decile_mean_border_km', 'worst_decile_mean_interior_km', 'worst_decile_border_minus_interior_km', 'n_border_muni_with_cross_assignment']",PASS
+results/pmr_access/education/education_junior_high_sensitivity.csv,regenerated,numeric values identical; extra committed cols: [],PASS
+results/pmr_access/education/education_junior_high_solver_log.txt,regenerated,solver log differs only in timestamps,PASS
+results/pmr_access/healthcare/HEALTHCARE_RESULTS.md,not_regenerated_post_processing,committed artifact retained in repo,PASS
+results/pmr_access/healthcare/healthcare_clinic_assignment.csv,regenerated,numeric values identical; extra committed cols: [],PASS
+results/pmr_access/healthcare/healthcare_clinic_metrics.csv,regenerated,"numeric values identical; extra committed cols: ['worst_decile_mean_border_km', 'worst_decile_mean_interior_km', 'worst_decile_border_minus_interior_km', 'n_border_muni_with_cross_assignment']",PASS
+results/pmr_access/healthcare/healthcare_clinic_sensitivity.csv,regenerated,"NUMERIC DIFF; extra committed cols: [] — single p90_min cell differs by 0.00007 min (rounding-level, not cited)",PASS_WITH_NOTE
+results/pmr_access/healthcare/healthcare_clinic_solver_log.txt,regenerated,solver log differs only in timestamps,PASS
+results/pmr_access/healthcare/healthcare_hospital_assignment.csv,regenerated,numeric values identical; extra committed cols: [],PASS
+results/pmr_access/healthcare/healthcare_hospital_metrics.csv,regenerated,"numeric values identical; extra committed cols: ['worst_decile_mean_border_km', 'worst_decile_mean_interior_km', 'worst_decile_border_minus_interior_km', 'n_border_muni_with_cross_assignment']",PASS
+results/pmr_access/healthcare/healthcare_hospital_sensitivity.csv,regenerated,numeric values identical; extra committed cols: [],PASS
+results/pmr_access/healthcare/healthcare_hospital_solver_log.txt,regenerated,solver log differs only in timestamps,PASS
