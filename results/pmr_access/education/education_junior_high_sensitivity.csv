@@ -1,0 +1,11 @@
+function,mode,sensitivity,metric,value
+education_junior_high,ON,travel_time_drive_40kmh,mean_min,1.7186409447786244
+education_junior_high,ON,travel_time_walk_4kmh,mean_min,17.186409447786243
+education_junior_high,ON,travel_time_drive_40kmh,p90_min,3.2786794493392075
+education_junior_high,ON,weight_households,mean_km,1.0892008850099977
+education_junior_high,OFF,travel_time_drive_40kmh,mean_min,1.7122715282873424
+education_junior_high,OFF,travel_time_walk_4kmh,mean_min,17.122715282873425
+education_junior_high,OFF,travel_time_drive_40kmh,p90_min,3.2499401211072683
+education_junior_high,OFF,weight_households,mean_km,1.0848334362146341
+education_junior_high,ON_minus_OFF,travel_time_drive_40kmh,mean_min,0.006369416491281778
+education_junior_high,ON_minus_OFF,weight_households,mean_km,0.004367448795363644

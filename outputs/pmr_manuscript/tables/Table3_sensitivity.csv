@@ -1,0 +1,6 @@
+dimension,variant,effect
+demand weight,household (SETAI) weighting instead of population,"mean costs essentially unchanged (e.g., elementary +0.0059 vs +0.0060 km)"
+travel-time proxy,geodesic converted at 40 km/h drive / 4 km/h walk,"mean time cost +0.41 s (hospital), +0.54 s (elementary) at 40 km/h drive proxy; conclusions unchanged"
+tier definition,hospital vs general clinic; dental excluded,tiers reported separately per freeze
+capacity,no capacity attributes in P04/P29,capacitated variant not run; capacity-neutrality declared limitation
+solver status,electoral Level A bounded not proven optimal; Level B best-found,"reported as bound/best-found, not optima"

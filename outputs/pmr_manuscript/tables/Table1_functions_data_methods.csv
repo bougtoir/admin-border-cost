@@ -1,0 +1,6 @@
+function,data,demand units,supply,Boundary ON/OFF rule,objective / outcome
+electoral representation,2020 Census small areas + municipal units; commuting OD,"55 muni/ward (L-A); 11,978 small areas (L-B)",K=9 districts,districts confined to prefecture / unconstrained,"districting objective (pop equality, contiguity, compactness); solver status declared"
+hospital access,MLIT P04-20,"11,978 small areas (pop 3,991,697)",221 hospitals,nearest same-pref / nearest overall,geodesic km to assigned facility
+clinic access,MLIT P04-20,same,"3,584 general clinics",same,same
+elementary access,MLIT P29-21,same,571 open public elementary,"same, same level",same
+junior-high access,MLIT P29-21,same,256 open public junior-high,"same, same level",same

@@ -1,0 +1,39 @@
+claim_id,claim_text_short,claim_type,source_file,source_location,status,notes
+KS-01,"Study geography is Kyoto-fu + Shiga-ken only",empirical,manuscript/manuscript_text.md,§3.1 Study area,VALIDATED_KYOTO_SHIGA,"Only empirical geography in PMR-facing artifacts"
+KS-02,"55 municipal/ward units (36 Kyoto incl. 11 wards; 19 Shiga)",empirical,manuscript/manuscript_text.md; manuscript/manuscript_values.csv (n_muni),§3.1,VALIDATED_KYOTO_SHIGA,""
+KS-03,"11,978 census small areas",empirical,manuscript_values.csv (n_small),§3.1,VALIDATED_KYOTO_SHIGA,""
+KS-04,"2020 population 3,991,697 (Kyoto 2,578,087; Shiga 1,413,610)",empirical,manuscript_values.csv (region_pop; pop_kyoto; pop_shiga),§3.1,VALIDATED_KYOTO_SHIGA,""
+KS-05,"Kyoto 6 + Shiga 3 single-member districts; K=9",empirical,docs/DATA_PROVENANCE.md; manuscript_text.md §3.1,verified institutional facts,VALIDATED_KYOTO_SHIGA,""
+KS-06,"HR districts may not straddle prefectural boundaries (statutory rule)",legal,docs/DATA_PROVENANCE.md; Public Offices Election Act annex 1,D1/D2,VALIDATED_KYOTO_SHIGA,""
+KS-07,"Prefectural government offices ~10.5 km apart; national rank 1 of 1,081 pairs; margin 8.5 km",empirical,outputs/tables/prefectural_government_pair_distances.csv; docs/CASE_SELECTION_AUDIT.md §4,§4.6,VALIDATED_KYOTO_SHIGA,"MLIT P02 2006 vintage; geodesic GRS80"
+KS-08,"79,466 daily cross-prefecture commuting/schooling trips (2020 census)",empirical,manuscript_values.csv (n_cross); flows_qc.json,§1/§4.6,VALIDATED_KYOTO_SHIGA,""
+KS-09,"Kyoto–Osaka raw bidirectional flow 176,231 > Kyoto–Shiga 79,466",empirical,outputs/tables/case_selection_comparison_full.csv (cs_bidir_ko),§4.6/T7,VALIDATED_KYOTO_SHIGA,"Reported unfavourable, retained"
+KS-10,"Normalized symmetric intensity S ≈1.99%, top of Kyoto's borders; table max Osaka–Hyogo 2.91%",empirical,case_selection_comparison_full.csv (cs_s_ks; cs_s_oh),§4.6/T7,VALIDATED_KYOTO_SHIGA,""
+KS-11,"Shiga→Kyoto ≈7.2% of Shiga commuters; 65.5% of Shiga out-of-prefecture trips",empirical,destination_pref_shares.csv (cs_sk_T; cs_sk_E),§4.6/T7,VALIDATED_KYOTO_SHIGA,""
+KS-12,"Kyoto largest external destination for 18/19 Shiga municipalities",empirical,municipal_external_destinations.csv (cs_shiga_munis),§4.6,VALIDATED_KYOTO_SHIGA,""
+KS-13,"Level A true border cost bounded [0, 532,293]; FEASIBLE not OPTIMAL",empirical,manuscript_values.csv (cost_border_A_lo/hi; A_on_status),§4.1,VALIDATED_KYOTO_SHIGA,"Interval, not point estimate"
+KS-14,"Level B best-found ON–OFF difference = 0 (heuristic, not proof)",empirical,manuscript_values.csv (cost_border_B),§4.1,VALIDATED_KYOTO_SHIGA,""
+KS-15,"Real border cross flow 39,733 < all 200 matched placebo borders",empirical,"outputs/tables/model_results.csv (cross_pref_flow, real border) + outputs/placebo/cross_od.csv (placebo rows only); manuscript_values.csv (cross_od_real)",§4.1/F6,VALIDATED_KYOTO_SHIGA,"Real value verified in model_results.csv run rows; cross_od.csv holds placebo borders only"
+KS-16,"200 placebos: 78 feasible, 122 no-feasible-incumbent (not proven infeasible)",empirical,outputs/placebo/placebo_results.csv,§4.4/T5,VALIDATED_KYOTO_SHIGA,""
+KS-17,"Feasible placebo median cost ≈0.0647 (IQR 0.0222–0.0727); real border ≈10th percentile",empirical,placebo_results.csv (placebo_cost_median/iqr; placebo_pct),§4.4/F6,VALIDATED_KYOTO_SHIGA,""
+KS-18,"Existing paper prices ONE function: electoral representation",scope,manuscript_text.md; docs/CLAIM_EVIDENCE_MATRIX.csv,§1/§2/§6,VALIDATED_KYOTO_SHIGA,"Never state service systems were estimated"
+KS-19,"No empirical estimates for healthcare/education/emergency/other services",scope,manuscript_text.md §6 Limitations,§6,VALIDATED_KYOTO_SHIGA,"Explicit limitation"
+KS-20,"IPSS 2050 robustness + M5 minimal-intervention benchmark exist in the study",empirical,manuscript_values.csv (M5_*; B_*durability*),§4.5,VALIDATED_KYOTO_SHIGA,""
+KS-21,"Different functions may carry different optimal territories",theoretical,manuscript_text.md §2/§5; CLAIM_EVIDENCE_MATRIX class C,conceptual contribution,CONCEPTUAL_ONLY,"Hypothesis; not proven"
+KS-22,"Territorial congruence is a design choice to be evaluated function by function",theoretical,docs/PMR_SPECIAL_ISSUE_FIT_KYOTO_SHIGA.md §3; abstract,framing,CONCEPTUAL_ONLY,""
+KS-23,"Alignment benefits (coordination, legibility, transition costs) exist but unmeasured",scope,manuscript_text.md §2/§6; matrix class C,declared out-of-scope,CONCEPTUAL_ONLY,""
+KS-24,"Healthcare-access extension analysis for Kyoto–Shiga",planned,docs/PMR_KYOTO_SHIGA_FUNCTION_SELECTION_FREEZE.md,selected function,PLANNED_NOT_COMPLETED,"Never write as finding"
+KS-25,"Education-access extension analysis for Kyoto–Shiga",planned,docs/PMR_KYOTO_SHIGA_FUNCTION_SELECTION_FREEZE.md,selected function,PLANNED_NOT_COMPLETED,"Never write as finding"
+KS-26,"PMR SI call details (deadlines, format, guest editors)",call-metadata,docs/PMR_SPECIAL_ISSUE_FIT_KYOTO_SHIGA.md §1,verified call,CONCEPTUAL_ONLY,"Abstract deadline 2026-05-31 passed; late-entry inquiry required"
+KS-27,"P29 school dataset acquired: 1,877 Kyoto+Shiga school points; 572 open elementary / 262 open junior-high",data-acquisition,data/processed/pmr_education_access/; data/raw/SHA256SUMS.txt,provenance,VALIDATED_KYOTO_SHIGA,"Supply-side inventory only; no assignment/solver run"
+KS-28,"Education ON/OFF solver outputs, metrics, sensitivities",planned,docs/PMR_KYOTO_SHIGA_ANALYSIS_FREEZE.md,pre-specified,PLANNED_NOT_COMPLETED,"No run exists; do not cite as result"
+KS-29,"Healthcare facility data (MLIT P04) and any ON/OFF results",planned,docs/PMR_KYOTO_SHIGA_NEW_DATA_PROVENANCE_FINAL.md,not-yet-acquired,PLANNED_NOT_COMPLETED,"No data, no run"
+KS-30,P04-20 raw medical-institution zips (Kyoto+Shiga),empirical,data/raw/ksj_p04/P04-20_2[56]_GML.zip,SHA256SUMS,VALIDATED_KYOTO_SHIGA,acquired 2026-10-06; MLIT NLNI
+KS-31,"P04 processed supply: p04_hospital (221) / p04_clinic (3,584)",empirical,data/processed/pmr_healthcare_access/*.csv,,VALIDATED_KYOTO_SHIGA,
+KS-32,"Demand units 11,978 small areas, pop 3,991,697",empirical,data/processed/pmr_demand/smallarea_demand_units.csv,,VALIDATED_KYOTO_SHIGA,merged KEY_CODE; SHA-verified r2ka
+KS-33,Border municipalities (11) via cross-pref small-area adjacency,empirical,data/processed/adj_smallarea_edges.csv,,VALIDATED_KYOTO_SHIGA,canonical adjacency reused
+KS-34,"ON/OFF access results (healthcare+education, all metrics)",empirical,results/pmr_access/**/,assignment/metrics/sensitivity/solver_log,COMPLETED_KYOTO_SHIGA,uncapacitated nearest; geodesic
+KS-35,Access figures + cross-function tables,empirical,"outputs/pmr_access/{figures,tables}/",,COMPLETED_KYOTO_SHIGA,
+KS-36,"Post-result abstract (completed findings, reframed)",empirical,pmr_special_issue/PMR_SI_ABSTRACT_PROPOSAL_KYOTO_SHIGA_POSTRESULT_FINAL.txt,877-word body,COMPLETED_KYOTO_SHIGA,
+KS-37,Selective permeability framing (design implication only),interpretive,docs/PMR_CLAIM_CALIBRATION_POSTRESULT.md,not a tested result,INTERPRETIVE_LABELLED,
+KS-38,FINAL QC v2 package (hostile review + doc integrity + public repro),audit,docs/FINAL_*.md; dist/*_v2.zip,all gates PASS,COMPLETED_KYOTO_SHIGA,

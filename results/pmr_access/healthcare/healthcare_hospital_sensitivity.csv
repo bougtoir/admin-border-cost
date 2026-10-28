@@ -1,0 +1,11 @@
+function,mode,sensitivity,metric,value
+healthcare_hospital,ON,travel_time_drive_40kmh,mean_min,2.445922961812984
+healthcare_hospital,ON,travel_time_walk_4kmh,mean_min,24.459229618129832
+healthcare_hospital,ON,travel_time_drive_40kmh,p90_min,5.3973299781500375
+healthcare_hospital,ON,weight_households,mean_km,1.514096771101214
+healthcare_hospital,OFF,travel_time_drive_40kmh,mean_min,2.4390171602954833
+healthcare_hospital,OFF,travel_time_walk_4kmh,mean_min,24.390171602954833
+healthcare_hospital,OFF,travel_time_drive_40kmh,p90_min,5.3973299781500375
+healthcare_hospital,OFF,weight_households,mean_km,1.5094089397190875
+healthcare_hospital,ON_minus_OFF,travel_time_drive_40kmh,mean_min,0.0069058015174999505
+healthcare_hospital,ON_minus_OFF,weight_households,mean_km,0.004687831382126464

@@ -1,0 +1,7 @@
+function,aggregate boundary cost,OFF cross-boundary share,local/tail effect,method/status
+electoral (Level A),"bound [0, 532,293] obj. units; FEASIBLE",—,—,"optimization, bounded"
+electoral (Level B),best-found 0,—,—,"optimization, best-found"
+hospital,+0.0046 km,0.17%,worst-decile gap 0.66→0.46 km; max unit +8.38 km; 45 units,closed-form argmin
+clinic,+0.0005 km,0.11%,0.22→0.17 km; max +3.08 km; 41 units,closed-form argmin
+elementary,+0.0060 km,0.20%,0.75→0.28 km; max +14.11 km; 70 units,closed-form argmin
+junior-high,+0.0042 km,0.19%,0.57→0.45 km; max +16.55 km; 81 units,closed-form argmin

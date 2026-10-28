@@ -1,0 +1,17 @@
+Subject: Late abstract inquiry — PMR special issue "Place-Based Strategy Design for Value Creation" (Kyoto–Shiga, Japan)
+
+Dear Professors Bianchi, Nasi, Chen, and Lotta,
+
+I am writing to ask whether a late abstract proposal can still be considered for the Public Management Review special issue "Place-Based Strategy Design for Value Creation." I regret that I missed the 31 May 2026 abstract deadline, and I apologize for the late approach.
+
+I believe the proposal fits the special issue closely. It develops territorial congruence — the alignment between an inherited administrative boundary and the functional geographies it is asked to contain — as a measurable strategy-design variable rather than a default. The empirical anchor is Kyoto–Shiga, Japan: the two closest prefectural government offices in the country (about 10.5 km apart, the closest of all 1,081 prefectural-office pairs), linked by 79,466 daily cross-prefecture commuting and schooling trips, yet institutionally divided by a hard statutory boundary.
+
+A completed study prices that same boundary for one public function, electoral representation: solving matched districting problems with and without the statutory no-straddle constraint bounds the true cost at [0, 532,293] objective units at municipality scale and zero among best-found small-area maps, while the real border crosses less commuting flow than all 200 matched placebo borders. The proposed paper uses this as a worked example for a broader claim the special issue speaks to directly: one administrative territory can contain multiple functional geographies, so the same boundary may carry different opportunity costs for different functions. Two further Kyoto–Shiga analyses — healthcare access and education access — are proposed as planned extensions and are clearly labelled as planned, not completed, in the abstract.
+
+I have attached the abstract proposal (under 1,000 words, in Word format) for your consideration. Could you let me know whether a late abstract can still be considered for the special issue?
+
+Thank you very much for your time.
+
+Sincerely,
+Tatsuki Onishi
+Shiga University, Data Science and AI Innovation Research Promotion Center

@@ -1,0 +1,23 @@
+FINAL HANDOFF — PMR SI KYOTO–SHIGA v2
+=======================================
+wip repo: bougtoir/wip, branch devin/1791193556-pmr-kyoto-shiga
+wip commit: (see git log) — head after QC commit
+Public repo: bougtoir/admin-border-cost (synced via sync-to-repos)
+Public commit: recorded in FINAL_PUBLIC_REPRODUCIBILITY_AUDIT.md
+
+Final artifacts:
+  manuscript/manuscript_PMR_SI_KYOTO_SHIGA_FINAL_v2.md (source of truth)
+  manuscript/manuscript_PMR_SI_KYOTO_SHIGA_FINAL_v2.docx (clean, ~5,900 words + refs)
+  manuscript/manuscript_inline_PMR_SI_KYOTO_SHIGA_FINAL_v2.docx (inline figs/tables)
+  manuscript/cover_letter_PMR_SI_KYOTO_SHIGA_FINAL_v2.docx
+  outputs/pmr_manuscript/figures/Figure{1-4}*.png ; outputs/pmr_manuscript/tables/Table{1-3}*.csv
+  docs/PMR_SOURCE_LEDGER.csv ; docs/CLAIM_EVIDENCE_MATRIX_PMR_UPDATED.csv
+  reproducibility_bundle_PMR_KYOTO_SHIGA_FINAL_v2.zip
+  submission_package_PMR_SI_KYOTO_SHIGA_FINAL_v2.zip
+
+Remaining human-only tasks:
+  - PMR SI abstract-deadline (2026-05-31) already passed: contact guest editors re late entry before upload
+  - Submit via Editorial Manager to the special issue
+  - Confirm any PMR word/abstract limits at submission time
+
+VERDICT: SUBMIT

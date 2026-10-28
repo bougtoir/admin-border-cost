@@ -1,0 +1,11 @@
+function,mode,sensitivity,metric,value
+education_elementary,ON,travel_time_drive_40kmh,mean_min,1.1281317536626652
+education_elementary,ON,travel_time_walk_4kmh,mean_min,11.281317536626652
+education_elementary,ON,travel_time_drive_40kmh,p90_min,2.0493564344262305
+education_elementary,ON,weight_households,mean_km,0.7175585412574258
+education_elementary,OFF,travel_time_drive_40kmh,mean_min,1.1191506786587258
+education_elementary,OFF,travel_time_walk_4kmh,mean_min,11.191506786587256
+education_elementary,OFF,travel_time_drive_40kmh,p90_min,2.0477598421737717
+education_elementary,OFF,weight_households,mean_km,0.7116092452981183
+education_elementary,ON_minus_OFF,travel_time_drive_40kmh,mean_min,0.008981075003939428
+education_elementary,ON_minus_OFF,weight_households,mean_km,0.005949295959307589

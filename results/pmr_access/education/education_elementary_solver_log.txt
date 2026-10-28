@@ -1,0 +1,10 @@
+{
+  "function": "education_elementary",
+  "method": "uncapacitated nearest-supply assignment (closed-form argmin over geodesic distance); no solver, no seeds",
+  "demand_units": 11978,
+  "supply_points": 571,
+  "demand_pop": 3991697,
+  "pairing": "Boundary ON vs OFF; identical demand geography, supply set, distance metric; only same-prefecture restriction differs",
+  "ON_seconds": 3.546,
+  "OFF_seconds": 6.752
+}
