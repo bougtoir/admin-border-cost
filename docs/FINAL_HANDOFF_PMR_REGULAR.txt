@@ -38,7 +38,7 @@ Human tasks before submission
   4. Optional: verify Bianchi sentence wording once more — it is factual and permitted.
 
 Public sync
-  bougtoir/admin-border-cost main synchronized (commit-tree recipe; main = fdb733950a9a2d37f51018b1c396a9e93ceb1841 (2026-10-28); wip head recorded below). sync-to-repos workflow still broken (job-setup failures, 403 on dispatch) — SYNC_PAT renewal still recommended.
+  bougtoir/admin-border-cost main synchronized (commit-tree recipe; public sync commits: fdb733950a9a2d37f51018b1c396a9e93ceb1841 (v1 artifacts), 530b47ebc39aa17377b6d33da54fca212b56b52d (handoff), plus this commit (see public git log)). sync-to-repos workflow still broken (job-setup failures, 403 on dispatch) — SYNC_PAT renewal still recommended.
 
 What changed vs SI v2: abstract (141 words), anonymization, keywords, cover letter, title page, packaging — ONLY.
 What did NOT change: every number, figure, table, interpretation, the [0, 532,293] bound, FEASIBLE/best-found solver wording.
