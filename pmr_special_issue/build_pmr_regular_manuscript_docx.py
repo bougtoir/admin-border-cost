@@ -15,7 +15,7 @@ from docx.oxml import OxmlElement
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
-MD = ROOT / "manuscript/manuscript_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.md"
+MD = ROOT / "manuscript/manuscript_PMR_REGULAR_KYOTO_SHIGA_FINAL_v2.md"
 FIGDIR = ROOT / "outputs/pmr_manuscript/figures"
 TABDIR = ROOT / "outputs/pmr_manuscript/tables"
 OUT = ROOT / "manuscript"
@@ -203,7 +203,7 @@ def build(inline: bool):
         doc.add_heading("Tables", level=1)
         for k in sorted(tab_captions):
             p = doc.add_paragraph(); p.add_run(tab_captions[k]).font.size = Pt(10)
-    name = "manuscript_inline_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.docx" if inline else "manuscript_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.docx"
+    name = "manuscript_inline_PMR_REGULAR_KYOTO_SHIGA_FINAL_v2.docx" if inline else "manuscript_PMR_REGULAR_KYOTO_SHIGA_FINAL_v2.docx"
     doc.save(OUT / name)
     print("wrote", OUT / name)
 
@@ -232,8 +232,8 @@ Tatsuki Onishi
 Shiga University, Data Science and AI Innovation Research Promotion Center"""
     for para in body.split("\n\n"):
         doc.add_paragraph(para)
-    doc.save(OUT / "cover_letter_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.docx")
-    Path(OUT / "cover_letter_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.txt").write_text(body)
+    doc.save(OUT / "cover_letter_PMR_REGULAR_KYOTO_SHIGA_FINAL_v2.docx")
+    Path(OUT / "cover_letter_PMR_REGULAR_KYOTO_SHIGA_FINAL_v2.txt").write_text(body)
     print("wrote cover letter")
 
 
@@ -250,7 +250,7 @@ def title_page():
         "Anonymization: the main manuscript is anonymized for double-anonymous review; this title page is submitted separately.",
     ]:
         doc.add_paragraph(para)
-    doc.save(OUT / "title_page_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.docx")
+    doc.save(OUT / "title_page_PMR_REGULAR_KYOTO_SHIGA_FINAL_v2.docx")
     print("wrote title page")
 
 
