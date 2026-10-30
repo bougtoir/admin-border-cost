@@ -1,0 +1,44 @@
+FINAL HANDOFF — PMR REGULAR ISSUE (Kyoto–Shiga administrative-border-cost paper)
+==============================================================================
+
+STATUS: SUBMIT
+
+Repo / branch
+  wip: bougtoir/wip, branch devin/1791193556-pmr-kyoto-shiga (PR #601 -> master)
+  project dir: admin_border_cost/
+  sync-pointer branch: devin/1790235152-admin-border-cost (fast-forwarded to same head)
+  public mirror: bougtoir/admin-border-cost, branch main (SHA recorded below in "Public sync")
+
+Artifacts (in submission_package_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.zip)
+  manuscript_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.docx / .md      — anonymized manuscript (12 pp, ~4,300 words body)
+  manuscript_inline_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.docx     — inline-figures review copy (15 pp)
+  title_page_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.docx            — title + author + affiliations + declarations (separate, per double-anonymous rules)
+  cover_letter_PMR_REGULAR_KYOTO_SHIGA_FINAL_v1.docx / .txt   — regular-article letter, single author, one permitted Bianchi sentence
+  Figures 1–4 PNG, Tables 1–3 CSV, PMR_tables.xlsx
+  audit docs: PMR_REGULAR_ISSUE_REQUIREMENTS, _RETARGETING_REPORT, _SPECIAL_ISSUE_RESIDUE_AUDIT, _CONCEPTUAL_REGRESSION_AUDIT, _FINAL_QC_REPORT
+
+  reproducibility_bundle_PMR_KYOTO_SHIGA_REGULAR_FINAL_v1.zip — code+data+results bundle (identical science to audited v2)
+
+Manuscript facts
+  Title: One administrative territory, multiple functional geographies: pricing territorial congruence in Kyoto–Shiga
+  Article type: Regular article, Public Management Review
+  Abstract: 141 words (limit 150)
+  Keywords (5): place-based strategy; territorial congruence; administrative boundaries; selective permeability; public value
+  Anonymization: double-anonymous — author line removed; self-citation anonymized to "[Author] (in preparation)"
+  Reference style: author–date (any consistent style accepted at submission)
+
+Publication route
+  PMR is hybrid (Taylor & Francis Open Select). Intended route: standard / non-OA — NO APC required.
+  Peer review: double-anonymous. Submit manuscript + title page + cover letter via Editorial Manager.
+
+Human tasks before submission
+  1. Upload anonymized manuscript, title page (separate), cover letter, and figure files in Editorial Manager.
+  2. Confirm no author-identifying metadata in docx file properties (builder writes none; verify anyway).
+  3. Choose the standard/non-OA route; decline Open Select unless OA is desired.
+  4. Optional: verify Bianchi sentence wording once more — it is factual and permitted.
+
+Public sync
+  bougtoir/admin-border-cost main synchronized (commit-tree recipe; SHA recorded in git log / session). sync-to-repos workflow still broken (job-setup failures, 403 on dispatch) — SYNC_PAT renewal still recommended.
+
+What changed vs SI v2: abstract (141 words), anonymization, keywords, cover letter, title page, packaging — ONLY.
+What did NOT change: every number, figure, table, interpretation, the [0, 532,293] bound, FEASIBLE/best-found solver wording.

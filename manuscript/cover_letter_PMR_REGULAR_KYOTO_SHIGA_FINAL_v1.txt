@@ -1,0 +1,19 @@
+Dear Editor,
+
+I am pleased to submit "One administrative territory, multiple functional geographies: pricing territorial congruence in Kyoto–Shiga" for consideration as a regular article in Public Management Review.
+
+Governments routinely organize multiple functions within inherited territorial containers, yet the opportunity cost of requiring those functions to respect one common boundary is rarely measured. This paper operationalizes territorial congruence as a measurable design variable — a function-specific alignment opportunity cost defined as the difference between the best achievable objective when a function's plans must respect an inherited boundary and the matched problem with that restriction removed — and measures it across three domains on the Kyoto–Shiga prefectural boundary in Japan: electoral representation, healthcare access, and education access.
+
+The counterintuitive result is twofold. Aggregate boundary costs are small in every domain examined: the electoral cost is bounded at [0, 532,293] objective units (with a best-found value of zero at small-area resolution), and the mean population-weighted access cost of the boundary is under seven metres for hospitals, clinics, elementary schools, and junior-high schools alike. Yet the residual burden is spatially concentrated: measurable penalties cluster in eleven border municipalities, where the worst-decile access gap over interior areas narrows markedly once the boundary restriction is relaxed.
+
+This finding shifts the design question from wholesale boundary reform toward selective territorial permeability — retaining the administrative container where its aggregate price is low while evaluating targeted cross-boundary access where local penalties are concentrated. The paper speaks to Public Management Review's core concerns: place-based strategy, public-service ecosystems, public value, and cross-jurisdiction service design. Selective permeability is developed as a design implication to be evaluated, not as a tested optimal policy.
+
+All results are computed from official Japanese public data (2020 Population Census, MLIT National Land Numerical Information, the Public Offices Election Act constraint). The full analysis code and data pipeline are public, and the reported results have been reproduced from a clean clone of the public repository, with a complete provenance and quality-control ledger accompanying the submission.
+
+Following an inquiry concerning a now-closed Public Management Review special issue, Professor Carmine Bianchi kindly encouraged me to consider submitting the completed paper through the journal's regular submission process.
+
+I confirm that the manuscript is original, is not under consideration elsewhere, and has a single author.
+
+Sincerely,
+Tatsuki Onishi
+Shiga University, Data Science and AI Innovation Research Promotion Center
